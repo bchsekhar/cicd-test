@@ -1,1 +1,2 @@
 Hello pipe line
+For Amity batch handling Devops training
