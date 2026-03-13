@@ -1,7 +1,7 @@
 name: Simple Pipeline
 
 on:
-  push:
+  push   :
     branches: [ main ]
 
 jobs:
